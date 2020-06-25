@@ -93,7 +93,7 @@ public class Main {
 		persons.add(new Person("Antonio", 20, Gender.MALE));
 		persons.add(new Person("Alina Smith", 33, Gender.FEMALE));
 		persons.add(new Person("Helen White", 57, Gender.FEMALE));
-		persons.add(new Person("Aleksander Kostylew 2", 14, Gender.MALE));
+		persons.add(new Person("Aleksander Kostylew 3", 14, Gender.MALE));
 		persons.add(new Person("Jamie Goa", 99, Gender.MALE));
 		persons.add(new Person("Anna Cook", 7, Gender.FEMALE));
 		persons.add(new Person("Zelda Brown", 120, Gender.FEMALE));
